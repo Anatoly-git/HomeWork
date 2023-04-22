@@ -1,0 +1,11 @@
+.text-bold {
+    font-weight: bold;
+}
+
+.child {
+    border: 5px solid black;
+}
+
+a[href="#text-bold"] {
+    color: red;
+}
