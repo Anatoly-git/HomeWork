@@ -1,0 +1,15 @@
+.block  {
+    width: 500px;
+    height: 500px;
+    background: url("https://picsum.photos/id/13/200/300"), linear-gradient(red, yellow);
+    background-repeat: no-repeat;
+    background-position: center center; 
+    background-size: auto;
+    /* background: linear-gradient(red, yellow); */
+}
+
+.block1 {
+    width: 500px;
+    height: 500px;
+    background: url("https://picsum.photos/id/13/200/300") 50% center / auto no-repeat, linear-gradient(red, blue);
+}
