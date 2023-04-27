@@ -1,0 +1,13 @@
+.block {
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    position: absolute;
+    top: 50vw;
+    left: 50vh;
+    transform: translate(10vw) skew(30deg);
+    /* transform: translate(10vw); */
+    /* transform: rotate(-0deg); */
+    /* transform: skew(30deg); */
+    
+}
