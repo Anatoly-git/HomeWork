@@ -1,0 +1,14 @@
+.item {
+    border: 1px solid #444;
+    font-size: 50px;
+    text-align: center;
+}
+
+/* -------------------------------------------------------- */
+
+.grid-1 {
+    display: grid;
+    grid-template: auto auto / repeat(2, 1fr) minmax(100px, 200px) repeat(2, 1fr);
+}
+
+
